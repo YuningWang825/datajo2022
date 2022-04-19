@@ -14,3 +14,4 @@ Intern at CommonWealth Magazine Crossing.
 National Gold Medal receiver for pro-bono legal work in China.
 Former assistant editor of 三联生活周刊 Sanlian Lifeweek Magazine.
 [LinkedIn](http://linkedin.com/in/artemis-huang/)
+Yay
