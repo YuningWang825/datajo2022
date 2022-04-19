@@ -8,7 +8,7 @@ Created for the spring 2022 semester.
 <!-- blank line -->
 ## Author
 ### Artemis Huang
-1. Taiwanese:notes:
+1. Taiwanese:snowflake:
 1. Boston University MS Journalism candidate
 1. Founder of 高中生看世界——Looking Beyond Borders
 1. Intern at CommonWealth Magazine Crossing
