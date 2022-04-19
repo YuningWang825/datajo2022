@@ -13,4 +13,4 @@ Founder of 高中生看世界——Looking Beyond Borders.
 Intern at CommonWealth Magazine Crossing.
 National Gold Medal receiver for pro-bono legal work in China.
 Former assistant editor of 三联生活周刊 Sanlian Lifeweek Magazine.
-[LinkedIn](http://linkedin.com/in/artemis-huang/){:target="_blank"}
+[LinkedIn](link){:target="http://linkedin.com/in/artemis-huang/"}
