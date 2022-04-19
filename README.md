@@ -15,3 +15,5 @@ Created for the spring 2022 semester.
 1. National Gold Medal receiver for pro-bono legal work in China
 1. Former assistant editor of 三联生活周刊 Sanlian Lifeweek Magazine
 1. [LinkedIn](http://linkedin.com/in/artemis-huang/)
+
+:penguin:
